@@ -2,7 +2,7 @@
 
 <b> Simulator </b>
 
-The application will simulate memory management system behavior based on a real memory memory path(reference trace). There are two files
+The application will simulate memory management system behavior based on a real memory memory path(reference trace). There are two files,
 each file contains a plurality of lines displaying hexadecimal memory references followed by R or W  indicating that it is for writing or
 reading.
 
